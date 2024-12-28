@@ -1,0 +1,33 @@
+.f{
+    padding: 5px;
+    background-color: yellow;
+    border: solid black 2px;
+    color: green;
+    margin: 5px;
+    font-size: 50px;
+}
+#h{
+    padding: 5px;
+    background-color: yellow;
+    border: solid black 2px;
+    color: green;
+    margin: 5px;
+    font-size: 40px;
+}
+#a,#c,#e,#f{
+    padding: 5px;
+}
+button{
+    width: 50px;
+    color: white;
+    background-color: green;
+    font-size: 12px;
+}
+#b{
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: 40px;
+}
+
+
